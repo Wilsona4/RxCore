@@ -1,0 +1,3 @@
+# Project exclude paths
+/RxKotlin/.gradle/
+/RxKotlin/build/

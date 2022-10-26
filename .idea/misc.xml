@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.15208333333333332" />
+        <entry key="RxGram/app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="RxGram/app/src/main/res/layout/layout_photo_bottom_sheet.xml" value="0.19610507246376813" />
+        <entry key="RxGram/app/src/main/res/layout/list_item_photo.xml" value="0.19610507246376813" />
+        <entry key="Time/app/src/main/res/layout/activity_buffer.xml" value="0.12604166666666666" />
+        <entry key="Time/app/src/main/res/layout/activity_delay.xml" value="0.12604166666666666" />
+        <entry key="Time/app/src/main/res/layout/activity_main.xml" value="0.12604166666666666" />
+        <entry key="Time/app/src/main/res/layout/activity_replay.xml" value="0.12604166666666666" />
+        <entry key="Time/app/src/main/res/layout/activity_time.xml" value="0.12604166666666666" />
+        <entry key="Time/app/src/main/res/layout/activity_timeout.xml" value="0.12604166666666666" />
+        <entry key="Time/app/src/main/res/layout/activity_window.xml" value="0.12604166666666666" />
+        <entry key="Time/app/src/main/res/layout/component_marble_view.xml" value="0.12604166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
